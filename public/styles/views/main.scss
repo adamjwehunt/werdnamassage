@@ -1,0 +1,28 @@
+body {
+  background: url(../img/werdnabackground.jpg)  50% 100px no-repeat;
+  width: 100%;
+  height: auto;
+}
+
+a:hover, a:focus {
+  text-decoration: none!important;
+}
+.main-wrapper {
+  // margin-top: 80px;
+}
+
+.quote {
+  margin: 30px auto 20px auto;
+  font-size: 20px;
+  line-height: 1.7;
+  max-width: 450px;
+}
+
+.icons {
+  font-size: 60px;
+}
+
+.icons a {
+  color: #333;
+  margin: 10px 20px;
+}
